@@ -68,4 +68,4 @@ var product1 = document.getElementById("product1")
             qty7.addEventListener("keyup", addOrder);
             qty8.addEventListener("keyup", addOrder);
             qty9.addEventListener("keyup", addOrder);
-};
+            
